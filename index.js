@@ -62,7 +62,7 @@ searchBtton.addEventListener("click", () => {
         })
         .catch(() => {
             if (cntryName.length == 0) {
-                result.innerHTML = `<h3>Oooh! You don't ty any thing!</h3>`
+                result.innerHTML = `<h3>Oooh! You don't type any thing!</h3>`
             } else {
                 result.innerHTML = `<h3> OO00p the Country you type is not exist!</h3>`
             }
