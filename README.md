@@ -2,6 +2,11 @@
 In this project, I tried to make an app to help people who want to discover   the countries of the  world.
 Here people can get important information on the country they want.
 
+###Screenshot
+
+![application](https://github.com/n-uwayo/useOfAPIsApplication/assets/122350054/3c0784cc-1b53-4614-bf42-eece8a0c4dff)
+
+
 ### Here is a demo video of how my application operates
 
 
